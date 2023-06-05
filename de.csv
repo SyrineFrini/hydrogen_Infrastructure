@@ -1,0 +1,123 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper,gdp
+Berlin,52.52,13.405,Germany,DE,Berlin,primary,4473101,3677472,40105
+Stuttgart,48.7775,9.18,Germany,DE,Baden-Württemberg,admin,2787724,626275,90518
+Munich,48.1375,11.575,Germany,DE,Bavaria,admin,2606021,1487708,79690
+Hamburg,53.55,10,Germany,DE,Hamburg,admin,2484800,1853935,64771
+Cologne,50.9364,6.9528,Germany,DE,North Rhine-Westphalia,,1083498,1073096,59588
+Frankfurt,50.1106,8.6822,Germany,DE,Hesse,minor,764104,759224,94190
+Düsseldorf,51.2333,6.7833,Germany,DE,North Rhine-Westphalia,admin,645923,619477,81563
+Leipzig,51.34,12.375,Germany,DE,Saxony,minor,615081,615081,36761
+Dortmund,51.5167,7.4667,Germany,DE,North Rhine-Westphalia,minor,587696,586852,38469
+Essen,51.4508,7.0131,Germany,DE,North Rhine-Westphalia,minor,582415,579432,43365
+Bremen,53.0833,8.8,Germany,DE,Bremen,admin,566573,563290,50675
+Dresden,51.05,13.74,Germany,DE,Saxony,admin,561922,561922,40524
+Hannover,52.3667,9.7167,Germany,DE,Lower Saxony,admin,542668,535932,45583
+Nuremberg,49.4539,11.0775,Germany,DE,Bavaria,minor,515543,510632,60711
+Duisburg,51.4347,6.7625,Germany,DE,North Rhine-Westphalia,minor,495885,495152,36475
+Bochum,51.4819,7.2158,Germany,DE,North Rhine-Westphalia,minor,364454,363441,33171
+Wuppertal,51.2667,7.1833,Germany,DE,North Rhine-Westphalia,minor,355004,354572,36429
+Bielefeld,52.0211,8.5347,Germany,DE,North Rhine-Westphalia,minor,334002,334002,41016
+Bonn,50.7333,7.1,Germany,DE,North Rhine-Westphalia,minor,331885,331885,80288
+Münster,51.9625,7.6256,Germany,DE,North Rhine-Westphalia,minor,317713,317713,55003
+Mannheim,49.4878,8.4661,Germany,DE,Baden-Württemberg,minor,311831,311831,67775
+Karlsruhe,49.0092,8.404,Germany,DE,Baden-Württemberg,minor,308436,306502,65518
+Augsburg,48.3689,10.8978,Germany,DE,Bavaria,minor,296478,296478,49447
+Wiesbaden,50.0825,8.24,Germany,DE,Hesse,admin,278950,278950,63527
+Mönchengladbach,51.2,6.4333,Germany,DE,North Rhine-Westphalia,minor,261001,261001,33785
+Gelsenkirchen,51.5167,7.1,Germany,DE,North Rhine-Westphalia,minor,260126,260126,30248
+Aachen,50.7756,6.0836,Germany,DE,North Rhine-Westphalia,minor,249070,249070,37631
+Braunschweig,52.2667,10.5167,Germany,DE,Lower Saxony,minor,248823,248823,78057
+Chemnitz,50.8333,12.9167,Germany,DE,Saxony,minor,248042,248042,35961
+Kiel,54.3233,10.1394,Germany,DE,Schleswig-Holstein,admin,246601,246243,47639
+Halle,51.4828,11.9697,Germany,DE,Saxony-Anhalt,minor,238061,238061,35909
+Magdeburg,52.1317,11.6392,Germany,DE,Saxony-Anhalt,admin,236188,236188,34525
+Freiburg im Breisgau,47.995,7.85,Germany,DE,Baden-Württemberg,minor,231848,231848,87245
+Krefeld,51.3333,6.5667,Germany,DE,North Rhine-Westphalia,minor,227050,227050,40593
+Mainz,49.9833,8.2667,Germany,DE,Rhineland-Palatinate,admin,217556,217556,57120
+Lübeck,53.8697,10.6864,Germany,DE,Schleswig-Holstein,minor,216277,216277,43769
+Erfurt,50.9833,11.0333,Germany,DE,Thuringia,admin,213835,213835,39715
+Oberhausen,51.4967,6.8706,Germany,DE,North Rhine-Westphalia,minor,209566,208752,27191
+Rostock,54.0833,12.1333,Germany,DE,Mecklenburg-Western Pomerania,,209061,208400,36270
+Kassel,51.3158,9.4979,Germany,DE,Hesse,minor,201048,200406,51960
+Hagen,51.3667,7.4833,Germany,DE,North Rhine-Westphalia,minor,188713,188713,34831
+Potsdam,52.4,13.0667,Germany,DE,Brandenburg,admin,183154,183154,42440
+Saarbrücken,49.2333,7,Germany,DE,Saarland,admin,179634,179634,44904
+Hamm,51.6833,7.8167,Germany,DE,North Rhine-Westphalia,minor,179238,179238,29631
+Ludwigshafen,49.4811,8.4353,Germany,DE,Rhineland-Palatinate,minor,172557,172145,81349
+Mülheim,51.4275,6.8825,Germany,DE,North Rhine-Westphalia,minor,170921,170739,43910
+Oldenburg,53.1439,8.2139,Germany,DE,Lower Saxony,minor,170389,170389,46404
+Osnabrück,52.2833,8.05,Germany,DE,Lower Saxony,minor,165034,165034,49817
+Leverkusen,51.0333,6.9833,Germany,DE,North Rhine-Westphalia,minor,163851,163851,51469
+Darmstadt,49.8722,8.6528,Germany,DE,Hesse,minor,159631,159631,77892
+Solingen,51.1667,7.0833,Germany,DE,North Rhine-Westphalia,minor,159360,158957,50982
+Heidelberg,49.4167,8.7167,Germany,DE,Baden-Württemberg,minor,159245,159245,57123
+Herne,51.55,7.2167,Germany,DE,North Rhine-Westphalia,minor,156621,156621,43910
+Neuss,51.2,6.7,Germany,DE,North Rhine-Westphalia,minor,153796,152731,53768
+Regensburg,49.0167,12.0833,Germany,DE,Bavaria,minor,153542,153542,87245
+Paderborn,51.7181,8.7542,Germany,DE,North Rhine-Westphalia,minor,152531,152531,41826
+Ingolstadt,48.7631,11.425,Germany,DE,Bavaria,minor,138016,138016,127792
+Fürth,49.4667,11,Germany,DE,Bavaria,minor,129122,129122,37656
+Würzburg,49.7833,9.9333,Germany,DE,Bavaria,minor,127880,126933,64131
+Ulm,48.4,9.9833,Germany,DE,Baden-Württemberg,minor,126949,126949,77208
+Heilbronn,49.15,9.2167,Germany,DE,Baden-Württemberg,minor,126458,125613,55707
+Pforzheim,48.895,8.705,Germany,DE,Baden-Württemberg,minor,126016,125529,40484
+Wolfsburg,52.4231,10.7872,Germany,DE,Lower Saxony,minor,124151,123949,182301
+Göttingen,51.5339,9.9356,Germany,DE,Lower Saxony,minor,119801,116557,38274
+Bottrop,51.5247,6.9228,Germany,DE,North Rhine-Westphalia,minor,117383,117311,22740
+Reutlingen,48.4833,9.2167,Germany,DE,Baden-Württemberg,minor,116456,116456,50982
+Koblenz,50.3597,7.5978,Germany,DE,Rhineland-Palatinate,minor,114024,113638,68464
+Bremerhaven,53.55,8.5833,Germany,DE,Bremen,,113634,113173,35448
+Erlangen,49.5833,11.0167,Germany,DE,Bavaria,minor,113292,113292,98097
+Recklinghausen,51.585,7.1619,Germany,DE,North Rhine-Westphalia,minor,112267,110714,43910
+Bergisch Gladbach,50.9918,7.1303,Germany,DE,North Rhine-Westphalia,minor,111966,111645,50982
+Remscheid,51.1833,7.2,Germany,DE,North Rhine-Westphalia,minor,111770,111770,36391
+Jena,50.9272,11.5861,Germany,DE,Thuringia,minor,111407,110502,44877
+Trier,49.7567,6.6414,Germany,DE,Rhineland-Palatinate,minor,110636,110570,44579
+Salzgitter,52.15,10.3333,Germany,DE,Lower Saxony,minor,104948,103694,56347
+Moers,51.4592,6.6197,Germany,DE,North Rhine-Westphalia,,103725,103725,43910
+Siegen,50.8833,8.0167,Germany,DE,North Rhine-Westphalia,minor,102836,101516,43910
+Hildesheim,52.15,9.95,Germany,DE,Lower Saxony,minor,101990,100319,41826
+Gütersloh,51.9,8.3833,Germany,DE,North Rhine-Westphalia,minor,101158,101158,41826
+Kaiserslautern,49.4447,7.7689,Germany,DE,Rhineland-Palatinate,minor,100030,99292,48336
+Schwerin,53.6333,11.4167,Germany,DE,Mecklenburg-Western Pomerania,admin,95818,95740,39728
+Esslingen,48.7333,9.3167,Germany,DE,Baden-Württemberg,minor,93542,92640,50982
+Ludwigsburg,48.8975,9.1922,Germany,DE,Baden-Württemberg,minor,93499,93117,50982
+Gladbeck,51.5667,6.9667,Germany,DE,North Rhine-Westphalia,,75687,75343,43910
+Rosenheim,47.85,12.1333,Germany,DE,Bavaria,minor,63508,63508,51494
+Herten,51.6,7.1333,Germany,DE,North Rhine-Westphalia,,61910,61910,43910
+Hilden,51.1714,6.9394,Germany,DE,North Rhine-Westphalia,,55764,55182,43910
+Elmshorn,53.7519,9.6511,Germany,DE,Schleswig-Holstein,,50141,50141,38274
+Halle-Neustadt,51.4789,11.9214,Germany,DE,Saxony-Anhalt,,46280,46280,35909
+Pinneberg,53.6333,9.8,Germany,DE,Schleswig-Holstein,minor,43603,43603,38274
+Siegburg,50.8014,7.2044,Germany,DE,North Rhine-Westphalia,minor,41660,41660,41366
+Germering,48.1333,11.3667,Germany,DE,Bavaria,,41387,40461,53768
+Ostfildern,48.7333,9.25,Germany,DE,Baden-Württemberg,,39376,39376,50982
+Kornwestheim,48.8598,9.1852,Germany,DE,Baden-Württemberg,,33803,33681,50982
+Unterschleißheim,48.2833,11.5667,Germany,DE,Bavaria,,28907,28896,53768
+Hattersheim,50.0722,8.4864,Germany,DE,Hesse,,28040,28040,50751
+Unterhaching,48.0658,11.61,Germany,DE,Bavaria,,25379,25379,50982
+Weingarten,47.8092,9.6444,Germany,DE,Baden-Württemberg,,25168,25168,53768
+Obertshausen,50.0667,8.8333,Germany,DE,Hesse,,24968,24968,50751
+Bad Soden am Taunus,50.1333,8.5,Germany,DE,Hesse,,23036,23036,50751
+Haar,48.1,11.7333,Germany,DE,Bavaria,,21797,21797,50982
+Eschborn,50.1436,8.57,Germany,DE,Hesse,,21734,21734,50751
+Ottobrunn,48.0667,11.6667,Germany,DE,Bavaria,,21719,21719,50982
+Puchheim,48.15,11.35,Germany,DE,Bavaria,,21531,21221,50982
+Gröbenzell,48.2,11.3667,Germany,DE,Bavaria,,19967,19649,50982
+Schenefeld,53.6028,9.8233,Germany,DE,Schleswig-Holstein,,19402,19402,38274
+Wolfratshausen,47.9133,11.4278,Germany,DE,Bavaria,,18984,18984,50982
+Glinde,53.5406,10.2111,Germany,DE,Schleswig-Holstein,,18443,18376,38274
+Eilendorf,50.7794,6.1625,Germany,DE,North Rhine-Westphalia,,15892,15892,50751
+Eppelheim,49.4,8.6333,Germany,DE,Baden-Württemberg,,15359,15359,50751
+Neubiberg,48.0833,11.6833,Germany,DE,Bavaria,,14538,14473,50982
+Asperg,48.9,9.1333,Germany,DE,Baden-Württemberg,,13486,13486,50982
+Wentorf bei Hamburg,53.4931,10.2533,Germany,DE,Schleswig-Holstein,,13366,13366,38274
+Kronshagen,54.3333,10.0833,Germany,DE,Schleswig-Holstein,,11921,11921,38274
+Eichenau,48.1667,11.3167,Germany,DE,Bavaria,,11894,11722,50982
+Steinbach am Taunus,50.1667,8.5667,Germany,DE,Hesse,,10682,10647,50751
+Weißenthurm,50.4144,7.4606,Germany,DE,Rhineland-Palatinate,,9171,9171,38925
+Neulußheim,49.2933,8.5219,Germany,DE,Baden-Württemberg,,7133,7133,38925
+Eichwalde,52.373,13.6213,Germany,DE,Brandenburg,,6468,6468,38925
+Altbach,48.7239,9.3797,Germany,DE,Baden-Württemberg,,6378,6378,50982
+Merzhausen,47.9664,7.8286,Germany,DE,Baden-Württemberg,,5280,5280,34610
+Buckenhof,49.5914,11.0522,Germany,DE,Bavaria,,3105,3105,34610
